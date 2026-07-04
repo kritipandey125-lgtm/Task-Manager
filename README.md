@@ -108,26 +108,6 @@ The frontend application will start on:
 ```text
 http://localhost:3000
 ```
-
-## Environment Variables
-
-Create a `.env` file inside the backend directory:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-```
-
-## Screenshots
-
-Add screenshots of your application here after deployment.
-
-Example:
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
 ## Future Enhancements
 
 * User Authentication (JWT)
